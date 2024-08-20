@@ -62,7 +62,7 @@ game-board {
 start-game {
     background-color: #4caf50;
     color: white;
-    padding: 12px 24px;
+    padding: 24px 24px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
